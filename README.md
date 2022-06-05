@@ -4,3 +4,5 @@
 Код взят от сюда - https://www.youtube.com/watch?v=WTLPmUHTPqo&t=271s
 
 Сама физика всего процесса начинается здесь - https://youtu.be/WTLPmUHTPqo?t=1653
+
+Библиотеки pygame, math
